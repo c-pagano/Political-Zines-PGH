@@ -10,11 +10,8 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 This exhibit showcases Political Zines created in Pittsburgh PA from the 1980's to the present day. Part of the Mr. Roboto Project Zine Library and Archive, the zines included here demonstrate the variety and depth of topics commonly covered by zinesters (people who create zines). The large timeframe covered by this collection also represents the development of political theory and social movements locally over the decades.
-
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
